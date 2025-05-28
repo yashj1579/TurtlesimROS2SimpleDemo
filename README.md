@@ -93,10 +93,7 @@ You should now see the `turtle1` turtle rotating and moving to each target point
 
 ## Demo
 
-<video width="600" controls>
-  <source src="media/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](https://img.youtube.com/vi/OsrQ6XKVt9E/hqdefault.jpg)](https://youtu.be/OsrQ6XKVt9E)
 
 ---
 
