@@ -100,6 +100,3 @@ You should now see the `turtle1` turtle rotating and moving to each target point
 ## Author
 
 Created by Yash Jain. If you have any questions, feel free to reach out: [yjtexas2005@gmail.com](mailto:yjtexas2005@gmail.com)
-
-Thank you for reading!
-
